@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!src/main/**/build/
+
+# Local configuration
+local.properties
+*.keystore
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kt.bin
+
+# Logs
+*.log
+
+# Build outputs
+*.apk
+*.aar
+*.ap_
+
+# Android
+local.properties
+*.jks
+*.keystore
+*.key
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Hilt generated
+app/build/generated/hilt/gradle-8.5/
+gradle-8.5-bin.zip

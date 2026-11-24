@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors - Everything Launcher inspired -->
+    <color name="brand_primary">#1A1A2E</color>
+    <color name="brand_primary_variant">#16213E</color>
+    <color name="brand_secondary">#0F3460</color>
+    <color name="brand_accent">#E94560</color>
+    <color name="brand_accent_light">#FF6B6B</color>
+    <color name="brand_surface">#1A1A2E</color>
+    <color name="brand_surface_variant">#1F2937</color>
+    <color name="brand_background">#0D0D1A</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_on_secondary">#FFFFFF</color>
+    <color name="brand_on_surface">#F5F5F5</color>
+    <color name="brand_on_background">#F5F5F5</color>
+
+    <!-- Light Theme -->
+    <color name="light_primary">#1A1A2E</color>
+    <color name="light_primary_variant">#16213E</color>
+    <color name="light_secondary">#0F3460</color>
+    <color name="light_accent">#E94560</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_surface_variant">#F3F4F6</color>
+    <color name="light_background">#FAFAFA</color>
+    <color name="light_on_primary">#FFFFFF</color>
+    <color name="light_on_secondary">#FFFFFF</color>
+    <color name="light_on_surface">#1A1A2E</color>
+    <color name="light_on_background">#1A1A2E</color>
+    <color name="light_outline">#E5E7EB</color>
+    <color name="light_outline_variant">#D1D5DB</color>
+
+    <!-- Dark Theme -->
+    <color name="dark_primary">#E94560</color>
+    <color name="dark_primary_variant">#FF6B6B</color>
+    <color name="dark_secondary">#0F3460</color>
+    <color name="dark_accent">#E94560</color>
+    <color name="dark_surface">#1A1A2E</color>
+    <color name="dark_surface_variant">#1F2937</color>
+    <color name="dark_background">#0D0D1A</color>
+    <color name="dark_on_primary">#0D0D1A</color>
+    <color name="dark_on_secondary">#FFFFFF</color>
+    <color name="dark_on_surface">#F5F5F5</color>
+    <color name="dark_on_background">#F5F5F5</color>
+    <color name="dark_outline">#374151</color>
+    <color name="dark_outline_variant">#4B5563</color>
+
+    <!-- Semantic Colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+
+    <!-- Gradient Colors for Background -->
+    <color name="gradient_morning_start">#FFDAB9</color>
+    <color name="gradient_morning_end">#FFE4B5</color>
+    <color name="gradient_day_start">#87CEEB</color>
+    <color name="gradient_day_end">#E0F7FA</color>
+    <color name="gradient_evening_start">#FFA07A</color>
+    <color name="gradient_evening_end">#FFDAB9</color>
+    <color name="gradient_night_start">#1A1A2E</color>
+    <color name="gradient_night_end">#16213E</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <color name="scrim">#80000000</color>
+    <color name="overlay">#CC000000</color>
+</resources>
